@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.each-withdraw-button-list {
+  list-style-type: none;
+}
+.denomination-buttons {
+  width: 150px;
+  padding: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  background-color: #382f5a;
+  color: #d4d2db;
+  border: 1px solid #c4c4c4;
+  border-radius: 5px;
+  font-size: 20px;
+}

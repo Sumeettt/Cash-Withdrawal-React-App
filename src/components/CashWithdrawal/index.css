@@ -1,0 +1,71 @@
+/* Write your CSS here */
+.bg-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.cash-withdrawal-card {
+  background-color: #150b3e;
+  padding: 30px;
+  border-radius: 15px;
+  width: 450px;
+}
+
+.name-container {
+  display: flex;
+  align-items: center;
+}
+.name-logo {
+  background-color: #c7d2fe;
+  color: #7c3aed;
+  height: 50px;
+  width: 50px;
+  border-radius: 25px;
+  padding-top: 10px;
+  font-size: 18px;
+  margin-right: 15px;
+  text-align: center;
+}
+
+.name {
+  color: #d4d2db;
+}
+
+.balance-card {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+}
+
+.balance-text {
+  color: #585076;
+}
+
+.current-balance {
+  color: #d4d2db;
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 30px;
+}
+
+.rupees-text {
+  margin-top: opx;
+  color: #585076;
+}
+
+.withdraw-text {
+  color: #d4d2db;
+  font-size: 20px;
+}
+
+.withdraw-choose-text {
+  color: #585076;
+  font-size: 15px;
+}
+
+.withdrawal-amount-container {
+  display: flex;
+  flex-wrap: wrap;
+}
